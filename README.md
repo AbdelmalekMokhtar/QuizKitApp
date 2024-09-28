@@ -19,7 +19,7 @@ Quiz Application is an Android-based app that allows users to take quizzes on va
 ## Screenshots
 
 ### Screenshot 1
-![Screenshot 1](https://github.com/username/repo_name/raw/main/screenshot1.png)
+![Screenshot 1](main.jpeg)
 
 ### Screenshot 2
 ![Screenshot 2](https://github.com/username/repo_name/raw/main/screenshot2.png)
