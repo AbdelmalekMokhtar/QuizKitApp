@@ -21,7 +21,7 @@ Quiz Application is an Android-based app that allows users to take quizzes on va
 Here are some screenshots of the application:
 
 <p align="center">
-    <img src="https://github.com/username/QuizKitApp/raw/main/profile.jpeg" alt="Profile Screen" width="200"/>
+    <img src="profile.jpeg" alt="Profile Screen" width="200"/>
     <img src="https://github.com/username/QuizKitApp/raw/main/quiz_mode.jpeg" alt="Quiz Mode" width="200"/>
     <img src="https://github.com/username/QuizKitApp/raw/main/quiz_result.jpeg" alt="Quiz Result" width="200"/>
 </p>
