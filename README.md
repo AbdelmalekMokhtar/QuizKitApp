@@ -22,8 +22,10 @@ Here are some screenshots of the application:
 
 <p align="center">
     <img src="profile.jpeg" alt="Profile Screen" width="200"/>
-    <img src="https://github.com/username/QuizKitApp/raw/main/quiz_mode.jpeg" alt="Quiz Mode" width="200"/>
-    <img src="https://github.com/username/QuizKitApp/raw/main/quiz_result.jpeg" alt="Quiz Result" width="200"/>
+    <img src="quiz_mode.jpeg" alt="Quiz Mode" width="200"/>
+    <img src="main/quiz_result.jpeg" alt="Quiz Result" width="200"/>
+    <img src="category.jpeg" alt="Category Screen" width="200"/>
+    <img src="main.jpeg" alt="Main Screen" width="200"/>
 </p>
 
 
